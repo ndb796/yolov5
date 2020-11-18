@@ -1,0 +1,6 @@
+train: data/coco128/images/train2017/
+val: data/coco128/images/train2017/
+
+nc: 2
+
+names: ['mask', 'no-mask']
