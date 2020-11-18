@@ -1,5 +1,5 @@
-train: data/coco128/images/train2017/
-val: data/coco128/images/train2017/
+train: data/mask_wearing_db/train/images
+val: data/mask_wearing_db/val/images
 
 nc: 2
 
